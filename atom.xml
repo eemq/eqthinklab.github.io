@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[eqThinkTank]]></title>
+  <link href="http://eqthinklab.github.io/atom.xml" rel="self"/>
+  <link href="http://eqthinklab.github.io/"/>
+  <updated>2013-07-29T15:44:30-07:00</updated>
+  <id>http://eqthinklab.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
